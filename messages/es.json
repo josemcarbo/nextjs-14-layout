@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Hola mundo!"
+  },
+  "nav": {
+    "home": "inicio",
+    "service": "servicios",
+    "about": "nosotros",
+    "tools": "herramientas",
+    "partners": "socios",
+    "contactBtn": "Contactar"
+  },
+  "banner": {
+    "title": "Es tiempo de maquetar",
+    "subtitle": "Debes usar NextJS y Tailwind CSS . Cada sección de la página debe ser un componente individual. Usa el módulo next-intl para internacionalización. Usa la imaginación para desarrollar el responsive de la versión móvil."
+  },
+  "contact": {
+    "title": "Traduce solo este título maravilloso y el navbar"
+  }
+}

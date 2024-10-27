@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Hello world!"
+  },
+  "nav": {
+    "home": "home",
+    "service": "services",
+    "about": "about us",
+    "tools": "tools",
+    "partners": "partners",
+    "contactBtn": "Contact"
+  },
+  "banner": {
+    "title": "It's time to layout",
+    "subtitle": "You should use NextJS and Tailwind CSS. Each section of the page should be an individual component. Use the next-intl module for internationalization. Use your imagination to develop the responsiveness of the mobile version."
+  },
+  "contact": {
+    "title": "Translate only this wonderful title and the navbar"
+  }
+}
